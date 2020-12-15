@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1544065240 source:f:\codec++\simpleatmmachineinc++\main.cpp
+	<iostream>
+	<exception>
+	<fstream>
+	<windows.h>
+
+1544076216 source:e:\codec++\simpleatmmachineinc++\main.cpp
+	<iostream>
+	<exception>
+	<fstream>
+	<windows.h>
+
+1544076216 source:g:\codec++\simpleatmmachineinc++\main.cpp
+	<iostream>
+	<exception>
+	<fstream>
+	<windows.h>
+
+1544076216 source:h:\codec++\simpleatmmachineinc++\main.cpp
+	<iostream>
+	<exception>
+	<fstream>
+	<windows.h>
+
